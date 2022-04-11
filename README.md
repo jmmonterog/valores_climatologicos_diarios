@@ -12,7 +12,7 @@ La práctica ha sido realizada por los estudiantes del Máster en Ciencia de Dat
 Ficheros del código fuente
 Se han generado los siguientes ficheros de código Python
 
-* **src/main.py**: punto de entrada al programa. Inicia los diferentes procesos de scraping
+* **src/principal.py**: punto de entrada al programa. Inicia los diferentes procesos de scraping
 * **src/indicativo.py**: contiene clase indicativo que encapsula la funcionalidad de conexión a través de Selenium a la siguiente dirección https://ogimet.com/indicativos.phtml. Automatiza la entrada de datos a un formulario para la obtención de los indicativos sinópticos de las estaciones meteorológicas de Agencia Estatal de Meteorología (AEMET). El resultado es un listado con los indicativos sinópticos de las estacions meteorológicas.
  
  
