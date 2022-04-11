@@ -36,4 +36,28 @@ El resultado de una petición a través de este formulario es la siguiente pági
 * **src/vcde.py**: clase que contiene un método denominado obtención_registros_diarios del que se obtienen todos los valores climatológicos diarios de España procedentes de OGIMET y AEMET OpenData
 
 ## Recursos
+ 
+ Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.
+ 
+Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2 Scraping the Data.
+ 
+Sene, K. (2016). Meteorological Observations. In: Hydrometeorology. Springer, Cham. https://doi.org/10.1007/978-3-319-23546-2_2
+ 
+Redes de observación de superficie y en altura: http://www.aemet.es/es/idi/observacion/observacion_convencional
+ 
+OGIMET: https://ogimet.com/
+ 
+AEMET OpenData: https://opendata.aemet.es
+ 
+Resolución de 30 de diciembre de 2015, de la Agencia Estatal de Meteorología, por la que se establecen los precios públicos que han de regir la prestación de servicios meteorológicos y climatológicos.
+ 
+Wikipedia.
+ 
+WMO Global Observing System: https://public.wmo.int/en/programmes/global-observing-system
+ 
+Resolución 40 de la OMM: https://community.wmo.int/resolution-40
+ 
+Nota Legal de AEMET: http://www.aemet.es/es/nota_legal
+ 
+Intervalos de grados sexagesimales correspondientes a rumbos. https://www.todoababor.es/historia/maniobras-de-un-buque-de-vela-conceptos-basicos/
 
